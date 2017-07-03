@@ -1,0 +1,3 @@
+[submodule "lib/elasticsearch-py"]
+	path = lib/elasticsearch-py
+	url = https://github.com/elastic/elasticsearch-py.git
