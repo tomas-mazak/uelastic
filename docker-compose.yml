@@ -17,7 +17,7 @@ elasticsearch:
   cap_add:
     - IPC_LOCK
   volumes:
-    - /var/esdata:/usr/share/elasticsearch/data
+    - /usr/share/elasticsearch/data
   ports:
     - 9200:9200
 
