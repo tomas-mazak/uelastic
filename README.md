@@ -39,7 +39,7 @@ apt-get install docker.io docker-compose
 ```
 - Clone this repo:
 ```
-git clone https://github.com/LukeShirnia/uelastic.git
+git clone git@github.rackspace.com:toma0716/elasticlogs.git
 cd uelastic
 git submodule init
 git submodule update
